@@ -98,7 +98,7 @@ const HeroBanner = () => {
                 >
                     <div className="font-light mb-4">
                         👋 Hi, I Am{" "}
-                        <span className="font-semibold">Ali Zahid</span>
+                        <span className="font-semibold">Ali</span>
                     </div>
                     <div className="max-w-[510px]">
                         I create and maintain modern websites and applications.
